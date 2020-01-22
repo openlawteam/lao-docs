@@ -1,0 +1,20 @@
+{
+  "name": "lao-docs",
+  "version": "0.1.0",
+  "description": "LAO Documentation",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "format": "prettier --write '**/*.{js,md}'",
+    "test": "prettier --check '**/*.{js,md}'"
+  },
+  "author": "OpenLaw Team <opensource@openlaw.io>",
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "vuepress": "^1.2.0",
+    "vuepress-theme-default-prefers-color-scheme": "^1.0.4"
+  }
+}
