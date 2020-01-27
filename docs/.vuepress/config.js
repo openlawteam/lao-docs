@@ -1,5 +1,5 @@
 module.exports = {
-  title: "👾 LAO Docz", // 🎉
+  title: "👾 The LAO - FAQs", // 🎉
   description: "The LAO Documentation",
   theme: "default-prefers-color-scheme",
   // for theme configuration, see https://vuepress.vuejs.org/theme/default-theme-config.html
