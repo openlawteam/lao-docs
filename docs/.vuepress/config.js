@@ -1,5 +1,6 @@
 module.exports = {
   title: "👾 The LAO - FAQs", // 🎉
+  logo: 'https://develop.thelao.io/lao-logo-animated-medium.gif',
   description: "The LAO Documentation",
   theme: "default-prefers-color-scheme",
   // for theme configuration, see https://vuepress.vuejs.org/theme/default-theme-config.html
