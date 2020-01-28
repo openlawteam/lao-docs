@@ -1,4 +1,4 @@
-# Termination or Dissolution of The LAO
+# Winding Down The LAO
 
 ## Under what circumstances will The LAO wind down?
 
