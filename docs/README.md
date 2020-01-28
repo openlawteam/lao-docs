@@ -96,9 +96,9 @@ The LAO is an emergent experiment and thus there is no express investment thesis
 
 **What are the terms of investments made by The LAO?**
 
-Members will have the right to set the terms of any investment into projects.  By default, and unless otherwise agreed, The LAO’s dapp will be initially configured to make $100,000 investments in projects (in DAI) via a convertible note.
+Members will have the right to set the terms of any investment into projects.  By default, and unless otherwise agreed, The LAO’s dapp will be initially configured to make $100,000 investments in projects (in DAI) via a [convertible note](https://consensys.net/convertible-note/).
 
-The LAO’s dapp has also been the option to be configured to make series seed investments in projects in exchange for tokenized stock, if the members decide to make a larger investment.
+The LAO’s dapp has also been the option to be configured to make [series seed](http://seriesseed.com/) investments in projects in exchange for tokenized stock, if the members decide to make a larger investment.
 
 **Can foreign entities receive investment from The LAO?**
 
@@ -279,7 +279,7 @@ In addition to legal entities such as:
 
 -Any entity in which all of the equity owners are accredited investors.
 
-The full definition can be found here.
+The full definition can be found [here] (https://www.sec.gov/fast-answers/answers-accredhtm.html).
 
 In order to register as a member, and validate potential members will need to supply The LAO with sufficient information to assess whether the member meets these legal requirements.  
 
@@ -381,11 +381,11 @@ The LAO uses various smart contracts to administer its activity.  Primarily, the
 
 -Rage quitting.
 
-The LAO uses v2 of the MolochDAO’s smart contracts, which can be found here.
+The LAO uses v2 of the MolochDAO’s smart contracts, which can be found [here](https://github.com/MolochVentures/moloch).
 
 **How are the smart contracts related to MolochDAO?**
 
-OpenLaw, the initial service provider for The LAO, has worked with the MolochDAO v2 of the MolochDAO smart contracts.  More information about the collaboration can be found here.
+OpenLaw, the initial service provider for The LAO, has worked with the MolochDAO v2 of the MolochDAO smart contracts.  More information about the collaboration can be found [here](https://medium.com/@thelaoofficial/the-lao-joins-forces-with-moloch-dao-and-metacartel-to-begin-to-standardize-dao-related-smart-b6ee4b0db071).
 
 **Will The LAO smart contracts be audited?**
 
@@ -393,13 +393,13 @@ The LAO smart contracts are currently being audited by ConsenSys Diligence, Molo
 
 **Will the smart contract code be publicly available?**
 
-The LAO smart contract code will be publicly available on Etherscan and github.
+The LAO smart contract code will be publicly available on Etherscan and [github](https://github.com/openlawteam/lao).
 
 ## Glossary
 
 **DAOs**
 
-DAOs are shorthand for a decentralized autonomous organization.  More information about decentralized organizations can be found here. 
+DAOs are shorthand for a decentralized autonomous organization.  More information about decentralized organizations can be found [here](https://wiki.p2pfoundation.net/Decentralized_Autonomous_Organization). 
 
 **Operating Agreement**
 
@@ -431,7 +431,7 @@ Accredited Investors are defined in Rule 501 of Regulation D.
 
 **Dapp**
 
-A DApp is a service that enables direct interaction between end users and providers (e.g., connecting buyers and sellers in some marketplace, owners and stores in file storage).  Learn more here. 
+A DApp is a service that enables direct interaction between end users and providers (e.g., connecting buyers and sellers in some marketplace, owners and stores in file storage).  Learn more [here](http://ethdocs.org/en/latest/glossary.html). 
 
 **Digital Asset**
 
