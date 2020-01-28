@@ -1,4 +1,4 @@
-# Investment Decisions
+# Investments
 
 ## How do members of The LAO make investment decisions?
 
