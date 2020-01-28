@@ -1,4 +1,4 @@
-# The LAO Smart Contracts
+# Smart Contracts
 
 ## What smart contracts are being used for the LAO?
 
