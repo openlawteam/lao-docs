@@ -2,7 +2,7 @@
 
 ## DAOs
 
-DAOs are shorthand for a decentralized autonomous organization.  More information about decentralized organizations can be found [here](https://wiki.p2pfoundation.net/Decentralized_Autonomous_Organization). 
+DAOs are shorthand for a decentralized autonomous organization. More information about decentralized organizations can be found [here](https://wiki.p2pfoundation.net/Decentralized_Autonomous_Organization).
 
 ## Operating Agreement
 
@@ -30,11 +30,11 @@ Ether is the digital asset that is native to the Ethereum blockchain.
 
 ## Accredited Investor
 
-Accredited Investors are defined in Rule 501 of Regulation D. 
+Accredited Investors are defined in Rule 501 of Regulation D.
 
 ## Dapp
 
-A DApp is a service that enables direct interaction between end users and providers (e.g., connecting buyers and sellers in some marketplace, owners and stores in file storage).  Learn more [here](http://ethdocs.org/en/latest/glossary.html). 
+A DApp is a service that enables direct interaction between end users and providers (e.g., connecting buyers and sellers in some marketplace, owners and stores in file storage). Learn more [here](http://ethdocs.org/en/latest/glossary.html).
 
 ## Digital Asset
 

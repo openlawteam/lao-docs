@@ -2,7 +2,7 @@
 
 ## Under what circumstances will The LAO wind down?
 
-Members of The LAO can  by majority vote, to wind down The LAO.  Other such circumstances include a judicially ordered dissolution or disposition of all the assets of The LAO. 
+Members of The LAO can by majority vote, to wind down The LAO. Other such circumstances include a judicially ordered dissolution or disposition of all the assets of The LAO.
 
 If dissolution were to occur, a person appointed by the Members,by majority vote, will handle the wind down of The LAO based on the terms of the operating agreement.
 

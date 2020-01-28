@@ -2,7 +2,7 @@
 
 ## How do I establish my accreditation status?
 
-During member onboarding, members will be asked to provide applicable documentation in order for The LAO to verify your status as an accredited investor.  This may include:
+During member onboarding, members will be asked to provide applicable documentation in order for The LAO to verify your status as an accredited investor. This may include:
 
 -Documentation verifying your income or net worth;
 
@@ -18,12 +18,12 @@ If you’re acting on behalf of a legal entity, you may need to provide:
 
 ## I'm a foreign investor interested in becoming a member of The LAO. Are non-U.S. investors able to become a member in The LAO?
 
-Non-U.S. based investors are permitted to become members of The LAO.  At this time, non-U.S. based investors must also go through the accredited investor check. 
+Non-U.S. based investors are permitted to become members of The LAO. At this time, non-U.S. based investors must also go through the accredited investor check.
 
 ## How long does it take to verify my accreditation?
 
-Accreditation will take several business days to be processed by The LAO.  We will notify you during the verification, with any questions or concerns.  
+Accreditation will take several business days to be processed by The LAO. We will notify you during the verification, with any questions or concerns.
 
-## Who will see the accreditation and other documents that I upload?  Can members of the LAO maintain a degree of anonymity?
+## Who will see the accreditation and other documents that I upload? Can members of the LAO maintain a degree of anonymity?
 
-The documentation that you upload as evidence of your accreditation status are kept private and are used to verify that you meet the definition of an accredited investor.  The information will not be disclosed to other members of The LAO, unless voluntarily disclosed by the member via the dapp or otherwise required by law.
+The documentation that you upload as evidence of your accreditation status are kept private and are used to verify that you meet the definition of an accredited investor. The information will not be disclosed to other members of The LAO, unless voluntarily disclosed by the member via the dapp or otherwise required by law.
