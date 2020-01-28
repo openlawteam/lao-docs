@@ -1,4 +1,4 @@
-# Contributing to The LAO
+# Becoming a Member of The LAO
 
 ## How can I contribute to the LAO and become a member?
 
