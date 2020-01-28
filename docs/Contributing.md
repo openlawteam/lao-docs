@@ -28,9 +28,9 @@ As noted above, the United States Securities Exchange Commission and/or equivale
 
 In the abundance of caution, the limits in membership and accreditation status are put in place to:
 
--comply with US securities law;
--prevent any one party from controlling a disproportionate amount of The LAO; and
--limit the risk of look through issues for LAO Members that are organized as funds or other legal entities.
+- comply with US securities law;
+- prevent any one party from controlling a disproportionate amount of The LAO; and
+- limit the risk of look through issues for LAO Members that are organized as funds or other legal entities.
 
 ## Are there any other requirements needed to become a member?
 
@@ -38,19 +38,19 @@ To contribute Ethereum to The LAO, members will need to be accredited investor c
 
 Members will also need to submit sufficient information to verify the potential member’s identity for AML/KYC & OFAC checks, including:
 
--Uploading a passport or a state issued license;
--Providing a social security number or Tax ID; and
--Providing proof of the member’s primary residence.
+- Uploading a passport or a state issued license;
+- Providing a social security number or Tax ID; and
+- Providing proof of the member’s primary residence.
 
 Accredited investors include:
 
--Individuals who have an annual income exceeding $200K or a married couple that has joint income spouse exceeding $300K in the two most recent years and have a reasonable expectation of reaching the same income level this year.
--Individuals who have a net worth that exceeds \$1 million (excluding the individual’s primary residence).
+- Individuals who have an annual income exceeding $200K or a married couple that has joint income spouse exceeding $300K in the two most recent years and have a reasonable expectation of reaching the same income level this year.
+- Individuals who have a net worth that exceeds \$1 million (excluding the individual’s primary residence).
 
 In addition to legal entities such as:
 
--Funds and trusts, with total assets in excess of \$5 million, which were not formed specifically to purchase the subject securities, whose purchase is directed by someone who has sufficient knowledge and experience in financial and business matters to evaluate the merits and risks of the prospective investment.
--Any entity in which all of the equity owners are accredited investors.
+- Funds and trusts, with total assets in excess of \$5 million, which were not formed specifically to purchase the subject securities, whose purchase is directed by someone who has sufficient knowledge and experience in financial and business matters to evaluate the merits and risks of the prospective investment.
+- Any entity in which all of the equity owners are accredited investors.
 
 The full definition can be found [here](https://www.sec.gov/fast-answers/answers-accredhtm.html).
 

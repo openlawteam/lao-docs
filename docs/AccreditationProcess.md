@@ -4,17 +4,17 @@
 
 During member onboarding, members will be asked to provide applicable documentation in order for The LAO to verify your status as an accredited investor. This may include:
 
--Documentation verifying your income or net worth;
+- Documentation verifying your income or net worth;
 
--written confirmation from a registered broker-dealer or investment advisor, licensed attorney, or certified public accountant as to the member’s accreditation status; and
+- written confirmation from a registered broker-dealer or investment advisor, licensed attorney, or certified public accountant as to the member’s accreditation status; and
 
--various forms, including a Form W-2, Form 1099, bank or brokerage statements, other statements of securities holdings, and other applicable documentation to ensure that you meet the definition of an accredited investor.
+- various forms, including a Form W-2, Form 1099, bank or brokerage statements, other statements of securities holdings, and other applicable documentation to ensure that you meet the definition of an accredited investor.
 
 If you’re acting on behalf of a legal entity, you may need to provide:
 
--Verification of that entity’s assets; and
+- Verification of that entity’s assets; and
 
--Verification of your sophistication
+- Verification of your sophistication
 
 ## I'm a foreign investor interested in becoming a member of The LAO. Are non-U.S. investors able to become a member in The LAO?
 

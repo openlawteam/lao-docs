@@ -4,12 +4,12 @@
 
 The LAO uses various smart contracts to administer its activity. Primarily, the smart contracts are used to facilitate:
 
--Collection of members’ initial contributions to the LAO;
--Voting;
--Delegating Voting to Third Parties;
--Funding investments;
--Distributing proceeds; and
--Rage quitting.
+- Collection of members’ initial contributions to the LAO;
+- Voting;
+- Delegating Voting to Third Parties;
+- Funding investments;
+- Distributing proceeds; and
+- Rage quitting.
 
 The LAO uses v2 of the MolochDAO’s smart contracts, which can be found [here](https://github.com/MolochVentures/moloch).
 

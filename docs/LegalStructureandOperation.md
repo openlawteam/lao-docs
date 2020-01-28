@@ -20,9 +20,9 @@ The LAO’s operating agreement was prepared by OpenLaw’s outside counsel.
 
 As set forth in the operating agreement, and except as otherwise provided under Delaware law, no member (or former member) of The LAO will be liable for the obligations of The LAO for any amounts in excess of the amount of the member’s contributions to The LAO, plus:
 
--the member’s share of the undistributed profits of The LAO, if any; and
+- the member’s share of the undistributed profits of The LAO, if any; and
 
--any amounts distributed by The LAO to such member.
+- any amounts distributed by The LAO to such member.
 
 ## What are the fiduciary obligations between Members?
 
