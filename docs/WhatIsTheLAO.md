@@ -1,7 +1,5 @@
 # What is the LAO?
 
-## What is The LAO?
-
 One of the most promising applications of Ethereum are decentralized (autonomous) organizations also known as DAOs. In 2013, the Ethereum community saw the first great experiment with DAOs with the launch of “The DAO.” The DAO raised over \$150 million dollars, however failed due to legal and technical challenges.
 
 The LAO is being organized in the spirit of The DAO, as a member directed venture capital fund organized in the United States, with an aim to be compliant with US law.
