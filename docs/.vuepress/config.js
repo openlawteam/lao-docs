@@ -25,9 +25,21 @@ module.exports = {
     // sidebar configuration: https://vuepress.vuejs.org/theme/default-theme-config.html#sidebar
     sidebar: [
       "/",
-      "AccreditationProcess",
+      "WhatIsTheLAO",
+      "LegalStructureandOperation",
+      "InvestmentDecisions",
+      "OptingOutofInvestmentDecisions",
+      ["DelegatingRights", "Delegating Rights"], // sample of renaming section in index only
+      "DueDiligence",
+      "Proceeds",
+      "FeesExpensesandCarry",
       "Contributing",
-      ["DelegatingRights", "Delegating Rights"], // sample of renaming section in index
+      "AccreditationProcess",
+      "AdministrationofContributions",
+      "Transfer",
+      "Launch",
+      "Termination",
+      "SmartContracts",
       "Glossary"
     ]
     // set up search integration below (requires account registration/approval as OSS project)
