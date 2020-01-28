@@ -1,4 +1,4 @@
-# Transfer of LAO Tokens and New LAO Members
+# LAO Tokens and New Members
 
 ## Will LAO tokens be transferrable?
 
