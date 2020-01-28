@@ -1,4 +1,4 @@
-# Opting out of Investment Decisions (i.e., “rage quitting”)
+# Rage Quitting
 
 ## What happens if I do not want to participate in an investment?
 
