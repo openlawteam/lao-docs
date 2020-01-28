@@ -4,7 +4,7 @@ meta:
     content: Welcome to the LAO's documentation. Here you'll learn more about The LAO.
 ---
 
-# THE LAO - MEMBERS FAQ
+# DISCLAIMER
 
 _The LAO is as diligent as possible in compiling and updating the information on its website. However, we do not guarantee the correctness and completeness of the information provided here. Equally, The LAO does not guarantee that this information is up to date and may qualify to change._
 
