@@ -21,7 +21,15 @@ module.exports = {
     // nav: [
     //   { text: 'OpenLaw.io', link: 'https://openlaw.io' },
     // ],
-    sidebar: ["/", "/sample"]
+
+    // sidebar configuration: https://vuepress.vuejs.org/theme/default-theme-config.html#sidebar
+    sidebar: [
+      "/",
+      "AccreditationProcess",
+      "Contributing",
+      ["DelegatingRights", "Delegating Rights"], // sample of renaming section in index
+      "Glossary"
+    ]
     // set up search integration below (requires account registration/approval as OSS project)
     // algolia: {
     //   apiKey: "",
