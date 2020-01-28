@@ -279,7 +279,7 @@ In addition to legal entities such as:
 
 -Any entity in which all of the equity owners are accredited investors.
 
-The full definition can be found [here] (https://www.sec.gov/fast-answers/answers-accredhtm.html).
+The full definition can be found [here](https://www.sec.gov/fast-answers/answers-accredhtm.html).
 
 In order to register as a member, and validate potential members will need to supply The LAO with sufficient information to assess whether the member meets these legal requirements.  
 
