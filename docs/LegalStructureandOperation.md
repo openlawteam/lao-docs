@@ -1,7 +1,5 @@
 # Legal Structure and Operation
 
-General Notes on Legal Structure
-
 ## What is the legal structure of the LAO?
 
 The LAO is organized as a Delaware limited liability company.
