@@ -1,4 +1,4 @@
-# Delegating Rights to Make Investment Decisions
+# Delegating Voting Rights
 
 ## Can a member transfer their voting rights for purposes of making investment decisions?
 
