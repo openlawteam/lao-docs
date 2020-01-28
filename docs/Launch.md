@@ -1,4 +1,4 @@
-# Launch of The LAO
+# Launch
 
 ## When will The LAO launch, sufficient to allow members to make investments?
 
