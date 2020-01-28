@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Welcome to the LAO's documentation. Here you'll learn more about The LAO.
+---
+
 # What is the LAO?
 
 ## What is The LAO?
