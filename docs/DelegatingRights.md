@@ -2,7 +2,7 @@
 
 ## How are voting rights determined?
 
-Voting rights will be based on the total number of LAO Tokens that each member holds for any relevant vote posed to members.  
+Voting rights will be based on the total number of LAO Tokens that each member holds for any relevant vote posed to members.
 
 ## How do members vote?
 
@@ -12,7 +12,7 @@ Voting will be facilitated by blockchain-based smart contracts and all voting re
 
 ## Can a member transfer their voting rights for purposes of making investment decisions?
 
-Members are not required to vote on all matters.  At any point in time, a member can transfer or “delegate” the member’s right to vote on investment decisions by designating an Ethereum address via the dapp.  Decisions to delegate any voting rights are entirely up to each member.
+Members are not required to vote on all matters. At any point in time, a member can transfer or “delegate” the member’s right to vote on investment decisions by designating an Ethereum address via the dapp. Decisions to delegate any voting rights are entirely up to each member.
 
 ## Does delegating rights to vote on investment decisions impact a member’s right to proceeds?
 

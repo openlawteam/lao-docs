@@ -19,4 +19,4 @@ All fees are payable on a quarterly basis to the service provider and will begin
 
 ## Does The LAO charge a carry?
 
-Notably, because The LAO is member managed, it does not have any general partner.  No member of The LAO or the service provider will be entitled to a carry, unless otherwise agreed to by the members.
+Notably, because The LAO is member managed, it does not have any general partner. No member of The LAO or the service provider will be entitled to a carry, unless otherwise agreed to by the members.
