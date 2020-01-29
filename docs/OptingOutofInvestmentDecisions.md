@@ -1,8 +1,12 @@
 # Rage Quitting
 
+## What rights do members have if they are not happy with the direction of The LAO?
+
+The LAO has certain strong rights for members to withdraw their capital if they are unhappy with the performance or administration of The LAO.  This right--often called "rage quitting," gives members a degree of control as to their participation in The LAO and the use of any contributed capital.
+
 ## What happens if I do not want to participate in an investment?
 
-Members are not obligated to participate in any proposed investment. Once an investment is authorized by a majority vote of the members, all members will have the right to opt out of the investment and receive any undeployed capital that they contributed to The LAO back (i.e., “rage quit”).
+Even though The LAO is member directed and managed, members are not obligated to participate in any proposed investment. Once an investment is authorized by a majority vote of the members, all members will have the right to opt out of the investment and receive any undeployed capital that they contributed to The LAO back (i.e., “rage quit”).
 
 The right to rage quit is accounted for in the operating agreement and facilitated via the dapp and underlying smart contracts.
 
