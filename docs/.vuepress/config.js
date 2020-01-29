@@ -8,7 +8,7 @@ module.exports = {
     // by default, this theme uses the user's browser preferences to set either
     // light for dark.  I overrode it to always be dark for now to match LAO stylez.
     defaultTheme: "dark",
-    logo: 'https://develop.thelao.io/lao-logo-animated-medium.gif',
+    logo: "/lao-logo-animated-medium.gif",
     /* standard vuepress themeConfig options */
     repo: "openlawteam/lao-docs",
     docsDir: "docs",
@@ -17,11 +17,6 @@ module.exports = {
     editLinkText: "Improve this page",
     // Gets the UNIX timestamp(ms) of each file's last git commit, and it will also display at the bottom of each page in an appropriate format. The string will be displayed as a prefix.
     lastUpdated: "Last updated",
-    // logo: "/ol-logo-color.svg",
-    // nav: [
-    //   { text: 'OpenLaw.io', link: 'https://openlaw.io' },
-    // ],
-
     // sidebar configuration: https://vuepress.vuejs.org/theme/default-theme-config.html#sidebar
     sidebar: [
       "/",
