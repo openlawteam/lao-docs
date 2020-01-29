@@ -3,7 +3,7 @@
   "editor.formatOnSave": true,
   // dont spellcheck emoji shortcodes in *.md
   "spellright.ignoreRegExpsByClass": {
-    "markdown": ["/:\\w+:/g"]
+    "markdown": ["/:\\w+:/g", "/&mdash;/g"]
   },
   "spellright.language": [
     "en"
