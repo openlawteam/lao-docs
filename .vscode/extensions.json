@@ -4,6 +4,7 @@
 
 	// List of extensions which should be recommended for users of this workspace.
 	"recommendations": [
+    "ban.spellright",
 		"sysoev.language-stylus",
 		"esbenp.prettier-vscode"
 	],
