@@ -20,20 +20,20 @@ module.exports = {
     // sidebar configuration: https://vuepress.vuejs.org/theme/default-theme-config.html#sidebar
     sidebar: [
       "/",
-      "WhatIsTheLAO",
-      "LegalStructureandOperation",
-      "InvestmentDecisions",
-      "OptingOutofInvestmentDecisions",
-      ["DelegatingRights", "Delegating Rights"], // sample of renaming section in index only
+      "Overview",
+      "Organization",
+      "Investments",
+      "RageQuitting",
+      "VotingRights",
       "DueDiligence",
       "Proceeds",
-      "FeesExpensesandCarry",
-      "Contributing",
+      "FeesExpensesCarry",
+      "Membership",
       "AccreditationProcess",
-      "AdministrationofContributions",
+      "AdministrationContributions",
       "Transfer",
       "Launch",
-      "Termination",
+      "Dissolution",
       "SmartContracts",
       "Glossary"
     ]
