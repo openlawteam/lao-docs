@@ -2,11 +2,11 @@
 
 ## If there are expenses associated with operating The LAO, who is responsible for them?
 
-The LAO and its members are responsible for the costs and expenses related to The LAO activities, operations, and maintenance, as detailed in the operating agreement. This includes any fees charged by the service provider.
+The LAO and its members are responsible for the costs and expenses related to The LAO's activities, operations, and maintenance, as detailed in the operating agreement. This includes any fees charged by the service provider.
 
 ## Are there any fees are associated with The LAO?
 
-As noted above, The LAO's organizational documents expressly contemplate the use of a service provider to help facilitate, on behalf of the members, activity on The LAO. As compensation for these services, the service provider will initially charge the following fees.
+As noted in these FAQs, The LAO's organizational documents expressly contemplate the use of a service provider to help facilitate, on behalf of the members, activity by The LAO. As compensation for these services, the service provider will initially charge the following fees.
 
 | Year | Service Provider Annual Fee |
 | ---- | :-------------------------: |
