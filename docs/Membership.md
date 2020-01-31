@@ -34,7 +34,7 @@ In the abundance of caution, the limits in membership and accreditation status a
 
 ## Are there any other requirements needed to become a member?
 
-To contribute Ether to The LAO, members will need to go through accredited investor, anti-money laundering ("AML"), Know Your Customer ("KYC") checks, and Office of Foreign Assets Control ("OFAC") as defined under U.S. law and as discussed further below. A joining member will need to deposit a sufficient amount of Ether from the member's Ethereum address in order to complete the membership process.
+To contribute Ether to The LAO, members will need to go through accredited investor, anti-money laundering ("AML"), Know Your Customer ("KYC"), and Office of Foreign Assets Control ("OFAC") checks as defined under U.S. law and as discussed further below. A joining member will need to deposit a sufficient amount of Ether from the member's Ethereum address in order to complete the membership process.
 
 A member will also need to submit sufficient information to verify the potential member's identity for AML, KYC, and OFAC checks, including:
 
@@ -54,4 +54,4 @@ With respect to legal entities:
 
 The full definition can be found [here](https://www.sec.gov/fast-answers/answers-accredhtm.html).
 
-In order to register and validate members, a potential member will need to supply The LAO with sufficient information to assess whether the member meets these legal requirements.
+In order to register and validate members, a potential member will need to supply The LAO with sufficient information to assess whether the member meets these legal requirements, which will be confirmed by The LAO's service provider.
