@@ -2,7 +2,7 @@
 
 ## Will LAO Tokens be transferrable?
 
-With limited exception, as detailed in the operating agreement, members cannot transfer LAO Tokens unless otherwise agreed to by the members.
+With limited exception, as detailed in the operating agreement, members cannot transfer LAO Tokens unless otherwise agreed to by the members, by majority vote.
 
 ## If a member "rage quits" and leaves The LAO can new members join?
 
