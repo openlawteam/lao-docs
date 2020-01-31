@@ -2,7 +2,7 @@
 
 ## What information will members receive from projects?
 
-Projects apply for investment through The LAO's DApp. Applicants will submit relevant information about their project, including a background of founders, pitch deck, and relevant financial information.
+Projects apply for investment through The LAO's DApp. Applicants are expected to submit relevant information about their project, including a background of founders, pitch deck, and relevant financial information.
 
 If members believe that additional information should be collected from an applicant, the member can contact the project directly or ask the service provider to obtain the information on The LAO's behalf.
 
@@ -14,4 +14,4 @@ The LAO will maintain various ways to interact with applicants and projects, suc
 
 ## Can members request that additional or different types of information be collected from projects?
 
-Members have the right to control all operations of The LAO and any changes can be implemented by the service provider.
+Members have the right to control all investment operations of The LAO and any changes are expected to be implemented by the service provider.
