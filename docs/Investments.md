@@ -26,7 +26,7 @@ The LAO DApp also has the option to be configured to make [series seed](https://
 
 ## Can foreign entities receive investment from The LAO?
 
-Yes.  However, The LAO will only make investments in projects treated as C corporations for U.S. federal income tax purposes.
+Yes. However, The LAO will only make investments in projects treated as C corporations for U.S. federal income tax purposes.
 
 If members of The LAO decide to invest in other entities, including entities with different tax treatment, the members by a majority vote have the right to form one or more legal vehicles or to take further action to accommodate the investment.
 

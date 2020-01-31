@@ -2,7 +2,7 @@
 
 ## When will The LAO launch?
 
-We will announce the launch date shortly. 
+We will announce the launch date shortly.
 
 ## When will The LAO accept member and investment applications?
 
