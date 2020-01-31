@@ -34,9 +34,7 @@ Accredited Investors are defined in Rule 501 of U.S. Securities and Exchange Com
 
 ## DApp
 
-A Dapp is a service that enables direct interaction between end users and providers (e.g., connecting buyers and sellers in some marketplace, owners and stores in file storage). Learn more [here](http://ethdocs.org/en/latest/glossary.html)
-
-[TODO: replace the dead link; also consider putting a more generic definition of a DApp here; example resources: https://blockgeeks.com/guides/dapps/, https://ethereum.stackexchange.com/questions/383/what-is-a-dapp].
+A DApp is an online portal or other interactive software that enables direct interaction between end users and providers (e.g., connecting buyers and sellers in some marketplace, owners and stores in file storage). Learn more [here](https://blockgeeks.com/guides/dapps/).
 
 ## Digital Asset
 

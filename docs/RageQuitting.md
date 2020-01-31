@@ -18,4 +18,4 @@ The member will retain any previous rights to proceeds from investments that occ
 
 ## When can a member rage quit?
 
-A member can rage quit The LAO at any time, including after any funding proposal. The only restriction is that any proposal that the particular member voted "YES" for is processed by The LAO smart contract initially. [TODO: clarify this restriction; it's confusing as currently written]
+A member can rage quit The LAO at any time, including after any funding proposal. The only restriction is that any proposal that the particular member voted "YES" for is processed by The LAO smart contract initially.
