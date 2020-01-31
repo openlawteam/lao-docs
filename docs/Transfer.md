@@ -10,4 +10,4 @@ Members by a majority vote can accept new capital commitments from new joining m
 
 ## Can a member be forced out of The LAO?
 
-Members of The LAO may be required to leave if members of The LAO vote to remove the respective member. The service provider cannot remove any LAO member unless the members vote to remove such member.
+Members of The LAO may be required to leave if members of The LAO vote to remove the respective member. The service provider cannot remove any LAO member unless otherwise authorized by a vote by a majority of the members.
