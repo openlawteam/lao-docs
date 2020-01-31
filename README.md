@@ -45,10 +45,6 @@ installed, you should automatically get:
 
 Deployment is handled automatically via Netlify CI. :tada:
 
-### Full-text Search Indexing
-
-TODO. Needs to be set up. Ping @mroth when we want to get this going.
-
 ## License
 
 The written documentation and source code examples are licensed under the
