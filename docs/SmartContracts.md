@@ -23,4 +23,4 @@ The LAO smart contracts are currently being audited by [ConsenSys Diligence](htt
 
 ## Will the smart contract code be publicly available?
 
-The LAO smart contract code will be publicly available on Etherscan and [GitHub](https://github.com/openlawteam/lao) [TODO: confirm which repo this link should point to].
+The LAO smart contract code will be publicly available on Etherscan and GitHub when it is complete.
