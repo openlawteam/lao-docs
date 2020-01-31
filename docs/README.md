@@ -1,11 +1,13 @@
----
-meta:
-  - name: description
-    content: Welcome to the LAO's documentation. Here you'll learn more about The LAO.
----
+# What is the LAO?
 
-# DISCLAIMER
+One of the most promising applications of Ethereum is the decentralized (autonomous) organization, also known as a DAO. In 2013, the Ethereum community saw the first great experiment with DAOs with the launch of "The DAO." The DAO raised over \$150 million dollars, but it ultimately failed due to legal and technical challenges.
 
-_The LAO LLC ("The LAO") seeks to be as diligent as possible in compiling and updating the information on its website. However, there is no guarantee of the correctness and completeness of the information provided here. Equally, The LAO does not guarantee that this information is up to date and such information may qualify to change._
+The LAO is being organized in the spirit of The DAO, as a member-directed venture capital fund organized in the United States, with an aim to be compliant with U.S. law.
 
-_Certain capitalized terms are described in the Glossary a the en dof this FAQ. The FAQs is a summary based on legally binding documents, namely The LAO, LLC Subscription Agreement and Operating Agreement.   If there is any discrepancy between the information provided herein and the Agreements, the terms of the agreement take precedence. Members should consult his or her own tax, financial, and legal advisors prior to making any investment in The LAO. Nothing in these FAQs shall be considered to be tax, financial, or legal advice. For questions, please reach out to [members@thelao.io](mailto:members@thelao.io)._
+Like The DAO, The LAO allows Members to pool capital, invest in projects, and share in any proceeds from the investment.
+
+The LAO is organized as a legal entity (a Delaware limited liability company) primarily administered via an online application (a "DApp") and related smart contracts.
+
+The LAO will enable its members to vote on project funding proposals and invest in early-stage Ethereum ventures. Unless modified by the members, funding will be provided to projects in stablecoin or Dai under terms outlined in these FAQs.
+
+More details about The LAO's legal structure, operation, and funding process are outlined in these FAQs. Please read them carefully before becoming a member of The LAO or seeking funding from The LAO.

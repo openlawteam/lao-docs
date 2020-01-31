@@ -20,7 +20,6 @@ module.exports = {
     // sidebar configuration: https://vuepress.vuejs.org/theme/default-theme-config.html#sidebar
     sidebar: [
       "/",
-      "Overview",
       "Organization",
       "Membership",
       "AccreditationProcess",
@@ -35,7 +34,8 @@ module.exports = {
       "Transfer",
       "Dissolution",
       "SmartContracts",
-      "Glossary"
+      "Glossary",
+      "DISCLAIMER",
     ]
     // set up search integration below (requires account registration/approval as OSS project)
     // algolia: {
