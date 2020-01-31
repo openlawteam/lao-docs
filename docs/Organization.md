@@ -4,7 +4,7 @@
 
 The LAO is organized as a Delaware limited liability company.
 
-The rights and obligations of The LAO members are set forth in an operating agreement and are supplemented by the Delaware Limited Liability Company Act. **YOU SHOULD RETAIN YOUR OWN COUNSEL FOR PURPOSES OF EVALUATING WHETHER TO JOIN THE LAO AS A MEMBER.**
+The rights and obligations of The LAO members are set forth in an operating agreement (which will be provided when you are verified for The LAO token sale) and are supplemented by the Delaware Limited Liability Company Act. **YOU SHOULD RETAIN YOUR OWN COUNSEL FOR PURPOSES OF EVALUATING WHETHER TO JOIN THE LAO AS A MEMBER.**
 
 At its core, The LAO will be member-managed and rely on a DApp and related smart contracts to facilitate investments into projects using digital assets.
 
