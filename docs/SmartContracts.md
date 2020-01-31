@@ -15,7 +15,7 @@ The LAO uses v2 of the MolochDAO's smart contracts, which can be found [here](ht
 
 ## How are the smart contracts related to MolochDAO?
 
-OpenLaw, the initial service provider for The LAO, has worked with the MolochDAO v2 of the MolochDAO smart contracts. More information about the collaboration can be found [here](https://medium.com/@thelaoofficial/the-lao-joins-forces-with-moloch-dao-and-metacartel-to-begin-to-standardize-dao-related-smart-b6ee4b0db071).
+OpenLaw, the initial service provider for The LAO, has worked with the MolochDAO to develop v2 of the MolochDAO smart contracts. More information about the collaboration can be found [here](https://medium.com/@thelaoofficial/the-lao-joins-forces-with-moloch-dao-and-metacartel-to-begin-to-standardize-dao-related-smart-b6ee4b0db071).
 
 ## Will The LAO smart contracts be audited?
 
