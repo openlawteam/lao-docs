@@ -12,7 +12,7 @@ If members agree via a majority vote to approve an investment, The LAO DApp will
 
 ## Will The LAO have a general partner?
 
-Unless otherwise agreed to by the members, there will be no general partner.
+No.
 
 ## Will The LAO operate via a thesis?
 
@@ -26,13 +26,13 @@ The LAO DApp also has the option to be configured to make [series seed](https://
 
 ## Can foreign entities receive investment from The LAO?
 
-Initially, The LAO will only make investments in projects treated as C corporations for U.S. federal income tax purposes.
+Yes.  However, The LAO will only make investments in projects treated as C corporations for U.S. federal income tax purposes.
 
-If members of The LAO decide to invest in other entities, including entities in other jurisdictions, the members by a majority vote have the right to form one or more legal vehicles or to take further action to accommodate the investment.
+If members of The LAO decide to invest in other entities, including entities with different tax treatment, the members by a majority vote have the right to form one or more legal vehicles or to take further action to accommodate the investment.
 
 ## What happens if there are multiple proposals for investment? How do The LAO members make decisions?
 
-Proposals are voted on sequentially to ensure that every application for funding is actually voted on. It also gives The LAO members time to withdraw their capital (i.e., "rage quit," described further [here](/RageQuitting)) if they do not want to participate in the investment.
+Proposals are voted on sequentially to ensure that every application for funding is actually voted on. It also gives The LAO members time to withdraw their undeployed capital (i.e., "rage quit," described further [here](/RageQuitting)) if they do not want to participate in the investment.
 
 ## What is the investment period for The LAO?
 
