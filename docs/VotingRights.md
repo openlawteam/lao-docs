@@ -16,7 +16,7 @@ Members are not required to vote on all matters. At any point in time, a member 
 
 ## Does delegating rights to vote on investment decisions impact a member's right to proceeds?
 
-Under the operating agreement, a member's decision to delegate voting rights does not change The LAO member's right to proceeds from any investment.
+No.
 
 ## Can a member cancel and/or re-delegate their voting rights?
 
