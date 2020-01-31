@@ -8,7 +8,7 @@ The rights and obligations of The LAO members are set forth in an operating agre
 
 At its core, The LAO will be member-managed and rely on a DApp and related smart contracts to facilitate investments into projects using digital assets.
 
-Unlike The DAO, which was arguably an implied partnership that provided members with limited legal protection, The LAO's operating agreement expressly limits the members' liability and limits any fiduciary obligations amongst members to the extent permitted by applicable law.
+Unlike The DAO, which was arguably an implied partnership that provided members with limited legal protection, The LAO's operating agreement expressly limits the members' liability and limits any fiduciary obligations amongst members, in each case, to the extent permitted by applicable law.
 
 The LAO will rely on a service provider (initially, OpenLaw) to facilitate various administrative functions on behalf of the members, including preparing and sending annual K-1 tax forms, updating and maintaining the DApp, validating information related to projects selected for investment, and handling other interactions that may come up during the lifetime of The LAO (e.g., receiving the proceeds from the sale of securities in fiat and converting them to a digital asset for distribution to members). For these services, the service provider will receive a fee, pursuant to a schedule outlined [here](/FeesExpensesCarry).
 
@@ -28,7 +28,7 @@ To the fullest extent permitted by applicable law, members shall not have any fi
 
 ## Can members make separate investments in or provide services to projects that receive investments from The LAO?
 
-Under the operating agreement, members may provide services to, make investments in, and provide financing to any project financed by The LAO.
+Yes.
 
 ## Can members vary the operating agreement or the ways in which The LAO operates?
 
