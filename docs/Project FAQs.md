@@ -30,7 +30,7 @@ For the first LAO, our ambition is to create a fund for projects in the Ethereum
 
 ## What entity type should be created for my project in order to submit a funding proposal?
 
-We ask that projects who wish to submit a proposal be an entity registered in a U.S. jurisdiction.  OpenLaw has some basic incorporation documents (see here).  The LAO members may, however, elect to invest in LAO projects organized outside the US.
+We ask that projects who wish to submit a proposal be an entity registered in a U.S. jurisdiction.  OpenLaw has some basic incorporation documents (see [here](https://lib.openlaw.io/web/default/template/Template%20Marketplace%20-%20Certificate%20of%20Incorporation)).  The LAO members may, however, elect to invest in LAO projects organized outside the US.
 
 **Please seek legal counsel regarding any incorporation documents or questions on entity choice.**
 
@@ -38,11 +38,11 @@ We ask that projects who wish to submit a proposal be an entity registered in a 
 
 The LAO members will have the opportunity to vote on the amount of financing that is provided to approved projects.  However, the initial structure of investments in LAO projects will be in the form of a convertible note.  Should The LAO members choose to invest a higher amount, a series seed investment in exchange for equity or project token rights may be provided to LAO projects.  The amount of equity and total investment amount in seed stage financing will be decided by The LAO members.  Series Seed investments may require potential LAO projects to provide information on the valuation of their company.
 
-Convertible notes are debt securities that early-stage companies routinely use to obtain financing.  Convertible notes often convert into equity of the issuer of the securities at a predetermined event such as a Series A financing round.  More information on convertible notes can be found here.
+Convertible notes are debt securities that early-stage companies routinely use to obtain financing.  Convertible notes often convert into equity of the issuer of the securities at a predetermined event such as a Series A financing round.  More information on convertible notes can be found [here](https://consensys.net/convertible-note/).
 
 ## What are the terms of the investment?
 
-Investments will be structured using a standard convertible note template that was created by Latham & Watkins or series seed documents from seriesseed.com.  Convertible note and seed investment terms are based on US market standards, minimizing the need for lengthy negotiation between The LAO members and projects.
+Investments will be structured using a [standard convertible note template](https://legal-toolkit.openlaw.io/flow/Automated%20Convertible%20Note?accessToken=aa5d4370-0a9c-4ad9-8b63-e1a0ba6f808f) that was created by Latham & Watkins or [series seed documents](https://www.seriesseed.com) from seriesseed.com.  Convertible note and seed investment terms are based on US market standards, minimizing the need for lengthy negotiation between The LAO members and projects.
 
 Convertible note investments in LAO projects will include the following terms:
 - An investment of $100,000 ETH
