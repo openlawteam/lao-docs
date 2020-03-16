@@ -1,4 +1,4 @@
-# Project FAQs
+# Projects
 
 ## How do projects get funded?
 

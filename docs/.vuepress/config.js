@@ -32,6 +32,7 @@ module.exports = {
       "Launch",
       "RageQuitting",
       "Transfer",
+      "Projects",
       "Dissolution",
       "SmartContracts",
       "Glossary",
