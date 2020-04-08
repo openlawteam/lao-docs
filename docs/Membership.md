@@ -10,7 +10,7 @@ Once open, members will have the opportunity to contribute Ether to The LAO by p
 
 Tokens will be sold in blocks. Each block of LAO Tokens will be sold for 120 ETH and provide a member with 1% of the voting rights in The LAO, along with 1% pro rata rights to any proceeds from investments.
 
-Each member will be permitted to purchase up to nine blocks of LAO Tokens (or 9% in total) for a maximum purchase price of \1,080 (ETH).
+Each member will be permitted to purchase up to nine blocks of LAO Tokens (or 9% in total) for a maximum purchase price of 1,080 (ETH).
 
 The sale will be denominated in USD but settled in Ether. To calculate the amount of Ether necessary to complete a subscription, The LAO will rely on a real time oracle feed provided by [Chainlink](https://chain.link/).
 
