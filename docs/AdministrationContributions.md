@@ -1,8 +1,8 @@
 # Administration of Contributions
 
-## How do investors transfer funds into The LAO?
+## How do you transfer funds into The LAO?
 
-Using a digital wallet, such as [MetaMask](https://metamask.io/), members can transfer funds after they have been approved (i.e., verified as an accredited investor, passed KYC/AML checks, etc., as further outlined [here](/Membership)). The funds that The LAO members contribute into The LAO will initially be held in a smart contract until The LAO is launched.
+Using a digital wallet, such as [MetaMask](https://metamask.io/), or a wallet compatible with [WalletConnect](https://walletconnect.org/) members can contribure to the LAO after they have been approved (i.e., verified as an accredited investor, passed KYC/AML checks, etc., as applicable and as further outlined [here](/Membership)).
 
 ## Why are my contributions in Ether converted to wrapped Ether?
 
