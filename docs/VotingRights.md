@@ -2,7 +2,7 @@
 
 ## How are voting rights determined?
 
-Voting rights will be based on the total number of LAO Tokens that each member holds for any relevant vote posed to members.
+Voting rights will be based on the total number of LAO Units that each member holds for any relevant vote posed to members.
 
 ## How do members vote?
 
