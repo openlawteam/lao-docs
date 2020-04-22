@@ -38,7 +38,7 @@ A smart contract is a computer program written to a blockchain which defines the
 
 ## Subscription Agreement
 
-When members join The LAO, they will subscribe to membership interests in The LAO represented as LAO Tokens.
+When members join The LAO, they will subscribe to membership interests in The LAO represented as LAO Units.
 
 ## Wallet
 
