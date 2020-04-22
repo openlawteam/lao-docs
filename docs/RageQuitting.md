@@ -12,7 +12,7 @@ The right to rage quit is accounted for in the operating agreement and facilitat
 
 ## If I rage quit can I sell my interests in The LAO?
 
-If a member rage quits, the member's original unallocated capital contribution will be returned to the member. The member's LAO Tokens are retired (i.e., "burned") and the member loses any right to participate in future investments.
+If a member rage quits, the member's original unallocated capital contribution will be returned to the member. The member's LAO Units are retired (i.e., "burned") and the member loses any right to participate in future investments.
 
 The member will retain any previous rights to proceeds from investments that occurred before rage quitting, as detailed further [here](/Proceeds).
 
