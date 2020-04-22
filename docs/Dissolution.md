@@ -8,7 +8,7 @@ If dissolution were to occur, a person appointed by the members via a majority v
 
 ## What happens if there are expenses related to the dissolution?
 
-If dissolution were to occur, members of The LAO would be responsible for the expenses associated with the liquidator, in connection with winding down The LAO.
+At the time of dissolution, members of The LAO are responsible for the expenses associated with the liquidation.
 
 Any additional losses or liabilities incurred will be in accordance with the terms of the operating agreement and the service provider reserves the right to set aside funds to facilitate dissolution activities.
 
