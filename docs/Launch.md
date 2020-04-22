@@ -2,10 +2,8 @@
 
 ## When will The LAO launch?
 
-We will announce the launch date shortly.
+The LAO is set to launch on April 28, 2020 and will continue to accept contributions until all membership units are sold.
 
-## When will The LAO accept member and investment applications?
+## When will The LAO accept applications?
 
-The LAO will accept projects and investors prior to the launch date. You can begin the application process at [The LAO DApp](https://www.thelao.io).
-
-The sale will continue until all of the tokens in The LAO are sold or 30 days, whichever event happens sooner.
+The LAO will accept projects prior to the launch date. You can begin the application process at [The LAO DApp](https://www.thelao.io).
