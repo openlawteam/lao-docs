@@ -15,7 +15,7 @@ If you're acting on behalf of a legal entity, you may need to provide:
 
 ## I'm a foreign investor interested in becoming a member of The LAO. Are non-U.S. investors able to become a member in The LAO?
 
-Non-U.S. based investors are permitted to become members of The LAO. At this time, non-U.S. based investors must also go through the accredited investor check.
+Non-U.S. based investors are permitted to become members of The LAO. At this time, non-U.S. based contributors must also go through the accredited investor check.  However, at the time the LAO opens up for contribution, non-U.S. based contributors will not need to provide such information.
 
 ## How long does it take to verify my accreditation?
 
