@@ -15,7 +15,7 @@ As noted in these FAQs, The LAO's organizational documents expressly contemplate
 | 3    |           1.0625%           |
 | 4    |            0.75%            |
 
-All fees are payable on a quarterly basis to the service provider and will begin to accrue once The LAO launches.  Members have the right to terminate the services of the service provider at any time.
+All fees are payable on a quarterly basis to the service provider and will begin to accrue once The LAO launches. Members have the right to terminate the services of the service provider at any time.
 
 ## Does The LAO charge a carry?
 
