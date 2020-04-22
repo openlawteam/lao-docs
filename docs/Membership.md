@@ -4,7 +4,7 @@
 
 Membership in The LAO is currently limited to accredited investors, as defined under U.S. law. The total number of members will be capped at a maximum of 100 members.
 
-Members will be permitted to join The LAO through The LAO's DApp starting on or about mid-February 2020 (there will be a public announcement shortly).
+Members will be permitted to join The LAO through The LAO's DApp starting on April 28, 2020 (there will be a public announcement shortly).
 
 Once open, members will have the opportunity to contribute Ether to The LAO by purchasing tokens representing an ownership in The LAO ("LAO Tokens").
 
