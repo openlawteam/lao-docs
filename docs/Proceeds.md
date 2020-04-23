@@ -10,7 +10,7 @@ The LAO will be the record holder of all securities and/or any other rights secu
 
 ## How will proceeds be distributed?
 
-Members will receive proceeds, if any, on a pro-rata basis based on the number of LAO Tokens each member holds.
+Members will receive proceeds, if any, on a pro-rata basis based on the number of LAO Units each member holds.
 
 If a member [rage quits](/RageQuitting), the member will be entitled to receive proceeds from any investments made by The LAO prior to the member's withdrawal of capital. However, the member will not be entitled to distribution with respect to any investments made by The LAO after the date the member quits The LAO.
 
