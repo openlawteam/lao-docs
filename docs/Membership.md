@@ -6,17 +6,17 @@ Membership in The LAO is currently limited to accredited investors, as defined u
 
 Members will be permitted to join The LAO through The LAO's DApp starting on April 28, 2020 (there will be a public announcement shortly).
 
-Once open, members will have the opportunity to contribute Ether to The LAO by purchasing tokens representing an ownership in The LAO ("LAO Tokens").
+Once open, members will have the opportunity to contribute Ether to The LAO by purchasing units representing an ownership in The LAO ("LAO Units").
 
-Tokens will be sold in blocks. Each block of LAO Tokens will be sold for 120 ETH and provide a member with 1% of the voting rights in The LAO, along with 1% pro rata rights to any proceeds from investments.
+Units will be sold in blocks. Each block of LAO Units will be sold for 120 ETH and provide a member with 1% of the voting rights in The LAO, along with 1% pro rata rights to any proceeds from investments.
 
-Each member will be permitted to purchase up to nine blocks of LAO Tokens (or 9% in total) for a maximum purchase price of 1,080 (ETH).
+Each member will be permitted to purchase up to nine blocks of LAO Units (or 9% in total) for a maximum purchase price of 1,080 (ETH).
 
 The sale will be denominated in USD but settled in Ether. To calculate the amount of Ether necessary to complete a subscription, The LAO will rely on a real time oracle feed provided by [Chainlink](https://chain.link/).
 
-## Are The LAO Tokens securities?
+## Are The LAO Units securities?
 
-The LAO Tokens have not been approved or disapproved by the U.S. Securities and Exchange Commission, any state securities commission in the United States, or any other global regulatory authority.
+The LAO Units have not been approved or disapproved by the U.S. Securities and Exchange Commission, any state securities commission in the United States, or any other global regulatory authority.
 
 ## Can I contribute Bitcoin, Dai, or other assets to The LAO?
 
@@ -24,7 +24,7 @@ All contributions are currently only limited to Ether, unless the members agree 
 
 ## Why is membership in The LAO limited to accredited investors and 100 members?
 
-As noted above, the U.S. Securities and Exchange Commission and/or equivalent government bodies in other jurisdictions have not determined whether membership interests in The LAO (represented as tokens) are securities.
+As noted above, the U.S. Securities and Exchange Commission and/or equivalent government bodies in other jurisdictions have not determined whether membership interests in The LAO (represented as units) are securities.
 
 In the abundance of caution, the limits in membership and accreditation status are put in place to:
 
