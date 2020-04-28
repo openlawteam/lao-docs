@@ -12,7 +12,7 @@ The LAO will be the record holder of all securities and/or any other rights secu
 
 Members will receive proceeds, if any, on a pro-rata basis based on the number of LAO Tokens each member holds.
 
-If a member [rage quits](/RageQuitting), the member will be entitled to receive proceeds from any investments made by The LAO prior to the member's withdrawal of capital. However, the member will not be entitled to distribution with respect to any investments made by The LAO after the date the member quits The LAO.
+If a member [rage quits](/RageQuitting), the member will be entitled to receive proceeds from any investments made by The LAO prior to the member's withdrawal of capital to the extent permitted by law or the terms of an investment (e.g., if The LAO makes an investment in securities with transfer restrictions, The LAO itself will be the record holder until those restrictions lift). However, the member will not be entitled to distribution with respect to any investments made by The LAO after the date the member quits The LAO.
 
 Please note, that prior to proceed distribution, members must provide a copy of the applicable Form W-9 or Form W-8, when requested by the service provider.
 
