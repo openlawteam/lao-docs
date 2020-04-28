@@ -11,10 +11,10 @@ As noted in these FAQs, The LAO's organizational documents expressly contemplate
 | Year | Service Provider Annual Fee |
 | ---- | :-------------------------: |
 | 1    |             2%              |
-| 2    |           1.6807%          |
-| 3    |           1.375%           |
-| 4    |            1.0610%          |
-| 5+   |.          0.7491%           |
+| 2    |           1.6807%           |
+| 3    |           1.375%            |
+| 4    |           1.0610%           |
+| 5+   |           0.7491%           |
 
 All fees are payable on a quarterly basis to the service provider and will begin to accrue once The LAO launches. Members have the right to terminate the services of the service provider at any time.
 
