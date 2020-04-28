@@ -22,4 +22,4 @@ Members have the right to determine how proceeds will be paid.
 
 ## Can The LAO recycle or reinvest proceeds?
 
-Members acting by a majority vote may reinvest or retain for investment any proceeds to effect The LAO investments, pay expenses (outlined [here](/FeesExpensesCarry)), or create reserves.
+Members acting by a majority vote may reinvest or retain for investment any proceeds to effect The LAO investments, pay expenses (outlined [here](/FeesExpensesCarry) or otherwise provided for in The LAO's Operating Agreement), or create reserves.
