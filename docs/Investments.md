@@ -6,7 +6,7 @@ In the spirit of The DAO, The LAO is entirely member directed and managed and an
 
 Each member will have the opportunity to nominate any applicant for funding through the DApp. Once nominated, members or their delegates will have the right to vote on whether to invest in a project through the DApp.
 
-If members agree via a majority vote to approve an investment, The LAO DApp will generate the necessary legal agreements and send them to a designated representative for signature. Once digitally signed, the project will transfer the investment to the project.
+If more members agree vote for an investment than reject an investment during the applicable voting period, The Members will authorize the investment.  After a seven day period to enable Members to "rage quit," The LAO DApp will generate the necessary legal agreements and send them to a designated representative for signature. Once digitally signed, The LAO will transfer the investment to the project.
 
 **A LAO member should understand and acknowledge that they must bear the economic risk of this investment.**
 
