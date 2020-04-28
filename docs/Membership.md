@@ -55,3 +55,6 @@ With respect to legal entities:
 The full definition can be found [here](https://www.sec.gov/fast-answers/answers-accredhtm.html).
 
 In order to register and validate members, a potential member will need to supply The LAO with sufficient information to assess whether the member meets these legal requirements, which will be confirmed by The LAO's service provider.
+
+==Post Contribution==
+Once a Member makes a contribution, The LAO's underlying smart contracts will need to whitelist the Member's applicable Ethereum address.  The process for validating and whitelisting the Member's Ethereum address will be done in order of contribution and will take at least 14 total days to complete.  The process takes 7 days to process the proposal and another 7 days to provide Members the right to "rage quit" if they so choose.
