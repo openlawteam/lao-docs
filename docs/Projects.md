@@ -46,12 +46,12 @@ Investments will be structured using a [standard convertible note template](http
 
 Convertible note investments in LAO projects will include the following terms:
 
-- An investment of \$100,000 ETH
+- An investment of \$50,000 worth of ETH
 - Standard terms from a convertible note template
 
 Investments that are issued to LAO projects using Series Seed documents will include the following terms:
 
-- An investment of >\$100,000 ETH
+- An investment of >\$50,000 worth of ETH
 
 - Possibility of tokenized stock or project token rights
 
