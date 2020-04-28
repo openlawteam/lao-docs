@@ -4,7 +4,7 @@
 
 Once a funding proposal is submitted for your project, the proposal will be submitted to The LAO members to decide whether to nominate your project for funding.
 
-If your funding proposal is nominated, The LAO members will then vote on whether the project will receive financing from The LAO. If approved by a majority quorum of The LAO Members, the project will then receive financing in the form of a convertible note. All project financing will be allocated to LAO projects in the form of the cryptocurrency ether. Convertible notes will be issued in the amount of \$100,000 ether at the time of the investment.
+If your funding proposal is nominated, The LAO members will then vote on whether the project will receive financing from The LAO. If approved by a majority quorum of The LAO Members, the project will then receive financing in the form of a convertible note. All project financing will be allocated to LAO projects in the form of the cryptocurrency ether. Convertible notes will be issued in the amount of \$50,000 worth of ether at the time of the investment.
 
 If The LAO members wish to invest a higher amount in LAO projects, the investment may be structured in the form of a series seed investment.
 
@@ -46,12 +46,12 @@ Investments will be structured using a [standard convertible note template](http
 
 Convertible note investments in LAO projects will include the following terms:
 
-- An investment of \$100,000 ETH
+- An investment of \$50,000 worth of ETH
 - Standard terms from a convertible note template
 
 Investments that are issued to LAO projects using Series Seed documents will include the following terms:
 
-- An investment of >\$100,000 ETH
+- An investment of >\$50,000 worth of ETH
 
 - Possibility of tokenized stock or project token rights
 

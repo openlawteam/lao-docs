@@ -2,7 +2,7 @@
 
 ## Will LAO Units be transferrable?
 
-With limited exception, as detailed in the operating agreement, members cannot transfer LAO Units unless otherwise agreed to by the members, by majority vote.
+With limited exception, as detailed in the operating agreement, members cannot transfer LAO Units or Tokens, if created, unless otherwise agreed to by the members, by majority vote.
 
 ## If a member "rage quits" and leaves The LAO can new members join?
 
