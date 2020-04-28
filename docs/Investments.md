@@ -12,7 +12,7 @@ If members agree via a majority vote to approve an investment, The LAO DApp will
 
 ## Will The LAO have a general partner?
 
-No.
+No, unless the Members make such a decision to appoint a general partner (but that wouldn't be in the spirit of things).
 
 ## Will The LAO operate via a thesis?
 
@@ -20,7 +20,7 @@ The LAO is an emergent experiment and thus there is no express investment thesis
 
 ## What are the terms of investments made by The LAO?
 
-Members will have the right to set the terms of any investment into projects. By default, and unless otherwise agreed, The LAO DApp will be initially configured to make \$50,000 investments in projects (in Ether) via a [convertible note](https://consensys.net/convertible-note/).
+Members will have the right to set the terms of any investment into projects. By default, and unless otherwise agreed, The LAO DApp will be initially configured to make \$50,000 investments in projects (in Ether) via a [convertible note](https://consensys.net/convertible-note/) that will give The LAO the right to equity or the right to participate in a future token sale.
 
 The LAO DApp also has the option to be configured to make [series seed](https://www.seriesseed.com/) investments in projects in exchange for equity or project token rights, if the members decide to make a larger investment.
 
