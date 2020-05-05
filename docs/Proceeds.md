@@ -23,3 +23,7 @@ Members have the right to determine how proceeds will be paid.
 ## Can The LAO recycle or reinvest proceeds?
 
 Members acting by a majority vote may reinvest or retain for investment any proceeds to effect The LAO investments, pay expenses (outlined [here](/FeesExpensesCarry) or otherwise provided for in The LAO's Operating Agreement), or create reserves.
+
+## If a member votes against a proposed deal, but does not “rage quit,” will he or she still benefit from possible future profits?  In other words, are all projects’ possible future returns shared equally amongst the members?
+
+> Yes, the member would benefit from the future profits even if the member voted against the investment.  In effect, you're agreeing to the will of the voting members and if you don't like the decision you have the right to rage quit all or part of your undeployed Ether.
