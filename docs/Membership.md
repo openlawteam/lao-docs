@@ -58,3 +58,7 @@ In order to register and validate members, a potential member will need to suppl
 
 ==Post Contribution==
 Once a Member makes a contribution, The LAO's underlying smart contracts will need to whitelist the Member's applicable Ethereum address. The process for validating and whitelisting the Member's Ethereum address will be done in order of contribution and will take at least 14 total days to complete. The process takes 7 days to process the proposal and another 7 days to provide Members the right to "rage quit" if they so choose.
+
+## Why is there a fixed amount of Ether upon submitting an application?
+
+If everyone submits a different amount of Ether, the interests in The LAO would have variable pricing.  If a member "rage quits" then that member could conceivably get back more Ether than he or she contributed.
