@@ -39,11 +39,15 @@ installed, you should automatically get:
 - Syntax highlighting and snippets for "stylus" files
 - Automatic code formatting via `prettier` on file save
 
+### Image optimization
+
+Please make sure that if you add new image files, it's done via a Pull Request.
+Images will then be automatically optimized for filesize in CI! :-)
+
 ## Deployment
 
-### Hosting
-
-Deployment is handled automatically via Netlify CI. :tada:
+Deployment is handled automatically via Netlify. :tada: Any needed
+customizations can be made in the `netlify.toml` file.
 
 ## License
 
