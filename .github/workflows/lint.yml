@@ -5,7 +5,7 @@ jobs:
   lint-formatting:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       # don't bother setting node version, unless it starts to matter.
       # - uses: actions/setup-node@v1
       #   with:
