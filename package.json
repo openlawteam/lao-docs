@@ -14,7 +14,7 @@
   "license": "CC-BY-4.0",
   "devDependencies": {
     "prettier": "^2.0.5",
-    "vuepress": "^1.5.0",
+    "vuepress": "^1.5.2",
     "vuepress-theme-default-prefers-color-scheme": "^1.0.9"
   }
 }
