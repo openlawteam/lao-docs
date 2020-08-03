@@ -1,6 +1,6 @@
 # What is the LAO?
 
-One of the most promising applications of Ethereum is the decentralized (autonomous) organization, also known as a DAO. In 2013, the Ethereum community saw the first great experiment with DAOs with the launch of "The DAO." The DAO raised over \$150 million dollars, but it ultimately failed due to legal and technical challenges.
+One of the most promising applications of Ethereum is the decentralized (autonomous) organization, also known as a DAO. In 2016, the Ethereum community saw the first great experiment with DAOs with the launch of "The DAO." The DAO raised over \$150 million dollars, but it ultimately failed due to legal and technical challenges.
 
 The LAO is being organized in the spirit of The DAO, as a member-directed venture capital fund organized in the United States, with an aim to be compliant with U.S. law.
 
