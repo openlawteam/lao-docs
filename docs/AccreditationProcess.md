@@ -17,10 +17,10 @@ If you're acting on behalf of a legal entity, you may need to provide:
 
 Non-U.S. based investors are permitted to become members of The LAO. Non-U.S. based contributors must verify their identity in order to contribute.
 
-## How long does it take to verify my accreditation?
+## How long does it take to verify my application?
 
-Accreditation and verification of Members will take several business days to be processed by The LAO. We will notify you during the verification, with any questions or concerns.
+Accreditation and verification of Members will take several business days to be processed by The LAO. We will notify you during the verification, with any questions or concerns. After this point, the current members of The LAO will approve your application based on social media profile. 
 
-## Who will see the accreditation and other documents that I upload? Can members of The LAO maintain a degree of anonymity?
+## Who will see the accreditation and other documents that I upload?  
 
-The documentation that you upload as evidence of your accreditation status are kept private and are used to verify that you meet the definition of an accredited investor. The information will not be disclosed to other members of The LAO, unless voluntarily disclosed by the member via the DApp or otherwise required by law.
+The documentation that you upload as evidence of your accreditation status are kept private and are used to verify that you meet the definition of an accredited investor.  
