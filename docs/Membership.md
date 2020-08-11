@@ -6,7 +6,7 @@ Membership in The LAO is currently limited to accredited investors, as defined u
 
 Members have the opportunity to contribute Ether to The LAO by purchasing units representing an ownership in The LAO ("LAO Units"). The members reserve the right to create a LAO Token to represent LAO Units via a Member votes.
 
-Units will be sold in blocks. Each block of LAO Units will be sold for about 130 ETH and provide a member with 1% of the voting rights in The LAO, along with 1% pro rata rights to any proceeds from investments.  The per unit number to buy units into The LAO will increase incrementally after ever investment The LAO makes. 
+Units will be sold in blocks. Each block of LAO Units will be sold for about 130 ETH and provide a member with 1% of the voting rights in The LAO, along with 1% pro rata rights to any proceeds from investments. The per unit number to buy units into The LAO will increase incrementally after ever investment The LAO makes.
 
 Each member will be permitted to purchase up to nine blocks of LAO Units (or 9% in total).
 
