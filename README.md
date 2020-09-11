@@ -1,5 +1,8 @@
 # LAO Docs
 
+![Linters status](https://github.com/openlawteam/lao-docs/workflows/Linters/badge.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8dd1a66b-ca28-43ee-978d-0a95e7fefff7/deploy-status)](https://app.netlify.com/sites/thelao-docs/deploys)
+
 ## Editing
 
 ### File structure
