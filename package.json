@@ -13,7 +13,7 @@
   "author": "OpenLaw Team <opensource@openlaw.io>",
   "license": "CC-BY-4.0",
   "devDependencies": {
-    "prettier": "^2.1.1",
+    "prettier": "^2.1.2",
     "vuepress": "^1.5.4",
     "vuepress-theme-default-prefers-color-scheme": "^1.1.0"
   }
