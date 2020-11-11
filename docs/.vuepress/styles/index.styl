@@ -8,6 +8,12 @@ a {
   color: #6ef4fa !important;
 }
 
+// hide outbound link icon (there is a bug where the icon is followed by an
+// extra space)
+.page a > span {
+  display: none;
+}
+
 p {
   line-height: 1.5;
 }
