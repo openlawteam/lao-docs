@@ -8,7 +8,9 @@ Voting rights will be based on the total number of LAO Units that each member ho
 
 Members will be prompted to vote via The LAO DApp (or, over time, other online services) at various points during the lifecycle of The LAO, including to evaluate investment decisions, weigh-in on the structure and form of The LAO, and/or other strategic decisions related to The LAO.
 
-Voting will be facilitated by blockchain-based smart contracts and all voting records will be searchable via the DApp and recorded to the Ethereum blockchain.
+Voting is primarily facilitated by blockchain-based smart contracts and all voting records will be searchable via the DApp and recorded to the Ethereum blockchain. 
+
+For governance-related decisions, The LAO has implemented Snapshot-like voting (which is gasless) and also has implemented processes to make investment decisions using through gasless voting tools available via the Dapp.
 
 ## Can a member transfer its voting rights for purposes of making investment decisions?
 
