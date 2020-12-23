@@ -20,15 +20,11 @@ The LAO is an emergent experiment and thus there is no express investment thesis
 
 ## What are the terms of investments made by The LAO?
 
-Members will have the right to set the terms of any investment into projects. By default, and unless otherwise agreed, The LAO DApp will be initially configured to make $50,000-$100,000 investments in projects (in Ether) via a [convertible note](https://consensys.net/convertible-note/) that will give The LAO the right to equity or the right to participate in a future token sale.
-
-The LAO DApp also has the option to be configured to make [series seed](https://www.seriesseed.com/) investments in projects in exchange for equity or project token rights, if the members decide to make a larger investment.
+Members will have the right to set the terms of any investment into projects. The LAO works with teams to structure the investment and currently makes investments that range from $25k-$250k (in ether).
 
 ## Can foreign entities receive investment from The LAO?
 
-Yes. However, initially, The LAO will only make investments in projects treated as C corporations for tax purposes.
-
-If members of The LAO decide to invest in other entities, including entities with different tax treatment, the members by a majority vote have the right to form one or more legal vehicles or to take further action to accommodate the investment.
+Possibly. Initially, The LAO has only made investments in projects treated as C corporations for tax purposes.  It is currently exploring setting up a foreign subsidiary.
 
 ## What happens if there are multiple proposals for investment? How do The LAO members make decisions?
 
