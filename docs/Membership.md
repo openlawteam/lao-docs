@@ -20,7 +20,7 @@ The LAO Units have not been approved or disapproved by the U.S. Securities and E
 
 All contributions are currently only limited to Ether, unless the members agree otherwise.
 
-## Why is membership in The LAO limited to accredited investors and 100 members?
+## Why is membership in The LAO limited to accredited investors and 99 members?
 
 As noted above, the U.S. Securities and Exchange Commission and/or equivalent government bodies in other jurisdictions have not determined whether membership interests in The LAO (represented as units) are securities.
 
