@@ -2,13 +2,13 @@
 
 ## How can I contribute to The LAO and become a member?
 
-Membership in The LAO is currently limited to accredited investors, as defined under U.S. law. The total number of members will be capped at a maximum of 100 members.
+Membership in The LAO is currently limited to accredited investors, as defined under U.S. law. The total number of members will be capped at a maximum of 99 members.
 
 Members have the opportunity to contribute Ether to The LAO by purchasing units representing an ownership in The LAO ("LAO Units"). The members reserve the right to create a LAO Token to represent LAO Units via a Member votes.
 
-Units will be sold in blocks. Each block of LAO Units will be sold for about 130 ETH and provide a member with 1% of the voting rights in The LAO, along with 1% pro rata rights to any proceeds from investments. The per unit number to buy units into The LAO will increase incrementally after ever investment The LAO makes.
+Units are sold in blocks. Each block of LAO Units (or 100,000 units) is currently being sold for 310 ETH and provide a member with 0.9% of the voting rights in The LAO, along with 0.9% pro rata rights to any proceeds from investments. The per unit number to buy units into The LAO will increase incrementally after ever investment The LAO makes.
 
-Each member will be permitted to purchase up to nine blocks of LAO Units (or 9% in total).
+Each member is be permitted to purchase up to nine blocks of LAO Units (or 7.2% in total).
 
 The sale will be denominated in Ether. Ether to US dollar calculations will be provided via a real time oracle feed from [Chainlink](https://chain.link/).
 
