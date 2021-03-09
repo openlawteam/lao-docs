@@ -7,8 +7,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "format": "prettier --write '**/*.{js,md}'",
-    "test": "prettier --check '**/*.{js,md}'"
+    "style:fix": "prettier --write '**/*.{js,md}'",
+    "style": "prettier --check '**/*.{js,md}'"
   },
   "author": "OpenLaw Team <opensource@openlaw.io>",
   "license": "CC-BY-4.0",
