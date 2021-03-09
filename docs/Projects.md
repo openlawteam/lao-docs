@@ -4,7 +4,7 @@
 
 Once a funding proposal is submitted for your project, the proposal will be submitted to The LAO members to decide whether to nominate your project for funding.
 
-If your funding proposal is nominated, The LAO members will then vote on whether the project will receive financing from The LAO. If approved by a majority quorum of The LAO Members, the project will then receive financing in the form of a convertible note. All project financing will be allocated to LAO projects in the form of the cryptocurrency ether.  Investment amounts have ranged from $50,000-$250,00 (settled primarily in ether).
+If your funding proposal is nominated, The LAO members will then vote on whether the project will receive financing from The LAO. If approved by a majority quorum of The LAO Members, the project will then receive financing in the form of a convertible note. All project financing will be allocated to LAO projects in the form of the cryptocurrency ether. Investment amounts have ranged from $50,000-$250,00 (settled primarily in ether).
 
 ## How does my project receive funding from the LAO?
 
