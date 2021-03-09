@@ -24,7 +24,7 @@ Members will have the right to set the terms of any investment into projects. Th
 
 ## Can foreign entities receive investment from The LAO?
 
-Possibly. Initially, The LAO has only made investments in projects treated as C corporations for tax purposes.  It is currently exploring setting up a foreign subsidiary.
+Possibly. Initially, The LAO has only made investments in projects treated as C corporations for tax purposes. It is currently exploring setting up a foreign subsidiary.
 
 ## What happens if there are multiple proposals for investment? How do The LAO members make decisions?
 
